@@ -19,3 +19,12 @@ The datadownload file then gets updated with the metadata, chained, average pric
 # Manually running the action
 It's likely the action won't run on time so you can trigger the action to run manually. Click on the action tab at the top, then python on the left, then the run workflow button. You'll have to run a new workflow rather than reuse an old one as it doesn't work for some reason. 
 ![image](https://github.com/henryjameslau/cpi-items-actions/assets/2945099/c441bd94-5e42-4b00-86da-635624d76e7a)
+
+If you're doing this on mobile (and in bed) click on **All workflows** to open a dropdown, then select Python
+
+<img width="378" alt="image" src="https://github.com/ONSvisual/cpi-items-actions/assets/2945099/bbc6e097-06dd-45a3-b2bc-5a3fcd3061d7">
+
+Then click on **Run workflow** and **Run workflow** again.
+
+![image](https://github.com/ONSvisual/cpi-items-actions/assets/2945099/421e334f-00c7-417d-9e81-30320a9814d7)
+
