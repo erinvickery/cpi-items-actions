@@ -134,7 +134,6 @@
 213005,201302,Food and non-alcoholic beverages,Non-alcoholic beverages,"Coffee, tea and cocoa",Cocoa and powdered chocolate,Food and drink,"Coffee, tea and cocoa",Hot chocolate drink,250-400g,2.594
 213006,201602,Food and non-alcoholic beverages,Non-alcoholic beverages,"Coffee, tea and cocoa",Coffee,Food and drink,"Coffee, tea and cocoa",Coffee pods,pack of 8-16,4.135
 213007,202102,Food and non-alcoholic beverages,Non-alcoholic beverages,"Coffee, tea and cocoa",Coffee,Food and drink,"Coffee, tea and cocoa",Coffee sachets pack,70-200g,1.991
-210913,200902,Food and non-alcoholic beverages,Food,Meat,Other meat preparations,Food and drink,Cooked meats,Whole rotisserie chicken,,6.401
 211011,198702,Food and non-alcoholic beverages,Food,Meat,Other meat preparations,Food and drink,Cooked meats,Individual meat pie,,1.667
 211023,201302,Food and non-alcoholic beverages,Food,Meat,Dried; salted or smoked meat,Food and drink,Cooked meats,Cooked ham (sliced),100-200g,2.536
 211024,201302,Food and non-alcoholic beverages,Food,Meat,Dried; salted or smoked meat,Food and drink,Cooked meats,Continental sliced deli type meat,40-100g,2.332
@@ -175,7 +174,6 @@
 212518,199902,Food and non-alcoholic beverages,Food,Vegetables including potatoes and tubers,Fresh/chill veg other than potatoes & other tubers,Food and drink,Fresh vegetables,Carrots,per kg,0.615
 212519,199902,Food and non-alcoholic beverages,Food,Vegetables including potatoes and tubers,Fresh/chill veg other than potatoes & other tubers,Food and drink,Fresh vegetables,Onions,per kg,0.917
 212520,199902,Food and non-alcoholic beverages,Food,Vegetables including potatoes and tubers,Fresh/chill veg other than potatoes & other tubers,Food and drink,Fresh vegetables,Mushrooms,per kg,3.477
-212527,200202,Food and non-alcoholic beverages,Food,Vegetables including potatoes and tubers,Fresh/chill veg other than potatoes & other tubers,Food and drink,Fresh vegetables,Pre-packed salad,100-250g,1.383
 212530,200702,Food and non-alcoholic beverages,Food,Vegetables including potatoes and tubers,Fresh/chill veg other than potatoes & other tubers,Food and drink,Fresh vegetables,Broccoli,per kg,2.184
 212531,200702,Food and non-alcoholic beverages,Food,Vegetables including potatoes and tubers,Fresh/chill veg other than potatoes & other tubers,Food and drink,Fresh vegetables,Courgettes,per kg,2.632
 212532,200802,Food and non-alcoholic beverages,Food,Vegetables including potatoes and tubers,Fresh/chill veg other than potatoes & other tubers,Food and drink,Fresh vegetables,Peppers,per kg,0.863
@@ -192,7 +190,6 @@
 210406,198702,Food and non-alcoholic beverages,Food,Meat,Beef and veal,Food and drink,Meat,Beef steak,per kg,17.603
 210416,202002,Food and non-alcoholic beverages,Food,Meat,Beef and veal,Food and drink,Meat,Beef roasting joint,per kg,12.085
 210506,201502,Food and non-alcoholic beverages,Food,Meat,Lamb and goat,Food and drink,Meat,Lamb loin chop/steak,per kg,16.165
-210703,198702,Food and non-alcoholic beverages,Food,Meat,Pork,Food and drink,Meat,Pork loin chops with bone,per kg,7.515
 210802,198702,Food and non-alcoholic beverages,Food,Meat,Dried; salted or smoked meat,Food and drink,Meat,Gammon,per kg,8.227
 210808,199602,Food and non-alcoholic beverages,Food,Meat,Dried; salted or smoked meat,Food and drink,Meat,Bacon,per kg,8.54
 210905,198902,Food and non-alcoholic beverages,Food,Meat,Poultry,Food and drink,Meat,Fresh/chilled whole chicken,per kg,3.691
@@ -222,7 +219,6 @@
 210204,198702,Food and non-alcoholic beverages,Food,Bread and cereals,Pasta products and couscous,Food and drink,Store cupboard,Dry spaghetti or pasta,500g,1.066
 210212,200302,Food and non-alcoholic beverages,Food,Bread and cereals,Rice,Food and drink,Store cupboard,Basmati rice,500g-1kg,2.057
 210217,201602,Food and non-alcoholic beverages,Food,Bread and cereals,Rice,Food and drink,Store cupboard,Microwavable rice,220-280g,0.942
-210218,201902,Food and non-alcoholic beverages,Food,Bread and cereals,Breakfast cereals and other cereal products,Food and drink,Store cupboard,Popcorn,10-30g,0.359
 210221,202102,Food and non-alcoholic beverages,Food,Bread and cereals,Pasta products and couscous,Food and drink,Store cupboard,Couscous,100-500g,0.845
 212101,198702,Food and non-alcoholic beverages,Food,"Sugar, jam, syrups, chocolate and confectionery",Sugar,Food and drink,Store cupboard,Granulated white sugar,per kg,1.005
 212202,198702,Food and non-alcoholic beverages,Food,"Sugar, jam, syrups, chocolate and confectionery",Confectionery products,Food and drink,Chocolate and sweets,Mints,,0.736
@@ -230,7 +226,6 @@
 212214,198802,Food and non-alcoholic beverages,Food,"Sugar, jam, syrups, chocolate and confectionery",Confectionery products,Food and drink,Chocolate and sweets,Fruit pastilles,,0.738
 212217,199502,Food and non-alcoholic beverages,Food,"Sugar, jam, syrups, chocolate and confectionery",Confectionery products,Food and drink,Chocolate and sweets,Chewing/bubble gum,single pack,0.736
 310102,198702,Restaurants and hotels,Catering services,"Restaurants, cafes",Restaurants; cafes and dancing establishments,Food and drink establishments,Alcohol,Draught bitter,per pint,3.598
-310104,198702,Restaurants and hotels,Catering services,"Restaurants, cafes",Restaurants; cafes and dancing establishments,Food and drink establishments,Alcohol,Draught stout,per pint,4.357
 310109,200302,Restaurants and hotels,Catering services,"Restaurants, cafes",Restaurants; cafes and dancing establishments,Food and drink establishments,Alcohol,Draught lager (3.4-4.2%),per pint,4.066
 310110,200302,Restaurants and hotels,Catering services,"Restaurants, cafes",Restaurants; cafes and dancing establishments,Food and drink establishments,Alcohol,Draught premium lager (4.3-7.5%),per pint,4.721
 310111,200402,Restaurants and hotels,Catering services,"Restaurants, cafes",Restaurants; cafes and dancing establishments,Food and drink establishments,Alcohol,Bottled premium lager (4.3-7.5%),one bottle,4.014
@@ -243,12 +238,10 @@
 310316,202002,Restaurants and hotels,Catering services,"Restaurants, cafes",Restaurants; cafes and dancing establishments,Food and drink establishments,Alcohol,Gin,30ml,3.51
 220301,198702,Restaurants and hotels,Catering services,"Restaurants, cafes",Fast food and take away food services,Food and drink establishments,Fast food and take aways,Takeaway fish and chips,,8.823
 220303,198702,Restaurants and hotels,Catering services,"Restaurants, cafes",Fast food and take away food services,Food and drink establishments,Fast food and take aways,Takeaway cold sandwich,,2.622
-220305,198702,Restaurants and hotels,Catering services,"Restaurants, cafes",Fast food and take away food services,Food and drink establishments,Fast food and take aways,Takeaway tea,,1.842
 220316,200002,Restaurants and hotels,Catering services,"Restaurants, cafes",Fast food and take away food services,Food and drink establishments,Fast food and take aways,Takeaway or delivery pizza,,9.529
 220318,200202,Restaurants and hotels,Catering services,"Restaurants, cafes",Fast food and take away food services,Food and drink establishments,Fast food and take aways,"Indian takeaway, main-course",,8.987
 220319,200202,Restaurants and hotels,Catering services,"Restaurants, cafes",Fast food and take away food services,Food and drink establishments,Fast food and take aways,"Chinese takeaway, main-course",,6.709
 220320,200202,Restaurants and hotels,Catering services,"Restaurants, cafes",Fast food and take away food services,Food and drink establishments,Fast food and take aways,Takeaway soft drink,,1.609
-220321,200302,Restaurants and hotels,Catering services,"Restaurants, cafes",Fast food and take away food services,Food and drink establishments,Fast food and take aways,Takeaway coffee,,2.964
 220323,200302,Restaurants and hotels,Catering services,"Restaurants, cafes",Fast food and take away food services,Food and drink establishments,Fast food and take aways,Takeaway kebab,,6.72
 220326,201202,Restaurants and hotels,Catering services,"Restaurants, cafes",Fast food and take away food services,Food and drink establishments,Fast food and take aways,Takeaway chicken & chips,,6.048
 220327,201802,Restaurants and hotels,Catering services,"Restaurants, cafes",Fast food and take away food services,Food and drink establishments,Fast food and take aways,Takeaway cooked pastry,,1.468
@@ -280,7 +273,6 @@
 520243,200602,Miscellaneous goods and services,Personal care,Appliances and products for personal care,Articles for personal hygiene and wellness,Health,Personal hygiene and wellness,Liquid foundation,30-35ml,9.862
 520247,201002,Miscellaneous goods and services,Personal care,Appliances and products for personal care,Articles for personal hygiene and wellness,Health,Personal hygiene and wellness,Liquid soap,200-300ml,1.228
 520250,201602,Miscellaneous goods and services,Personal care,Appliances and products for personal care,Articles for personal hygiene and wellness,Health,Personal hygiene and wellness,Nail varnish,6-14ml,4.395
-520254,202102,Miscellaneous goods and services,Personal care,Appliances and products for personal care,Articles for personal hygiene and wellness,Health,Personal hygiene and wellness,Hand hygiene gel,50-150ml,1.35
 520255,202302,Miscellaneous goods and services,Personal care,Appliances and products for personal care,Articles for personal hygiene and wellness,Health,Personal hygiene and wellness,Mouthwash,300-600ml,3.625
 430211,198702,"Furniture, household equipment and maintenance",Household textiles,Household Textiles,Bed linen,Household items,Bed linen,Double duvet,10-13.5 tog,30.945
 430216,199102,"Furniture, household equipment and maintenance",Household textiles,Household Textiles,Bed linen,Household items,Bed linen,Duvet cover,,24.486
@@ -304,7 +296,6 @@
 430304,198702,"Furniture, household equipment and maintenance","Household appliances, fitting and repairs",Major appliances and small electric goods,Cookers,Household items,Cookware,Electric cooker,,457.3
 430407,198702,"Furniture, household equipment and maintenance","Glassware, tableware and household utensils","Glassware, Tableware and Household Utensils",Non-electric kitchen utensils and articles,Household items,Cookware,Small milk pan,,7.241
 430423,200501,"Furniture, household equipment and maintenance","Glassware, tableware and household utensils","Glassware, Tableware and Household Utensils",Non-electric kitchen utensils and articles,Household items,Cookware,Frying pan (non-stick),24-30cm,18.731
-430424,201902,"Furniture, household equipment and maintenance","Glassware, tableware and household utensils","Glassware, Tableware and Household Utensils",Non-electric kitchen utensils and articles,Household items,Cookware,Bakeware (e.g. baking tray/roasting tin),,7.28
 430419,200102,"Furniture, household equipment and maintenance","Glassware, tableware and household utensils","Glassware, Tableware and Household Utensils",Cutlery; flatware and silverware,Household items,Cookware,Stainless steel cutlery set,,23.215
 430505,198702,"Furniture, household equipment and maintenance",Goods and services for routine maintenance,Non-durable household goods,Other non-durable small household articles,Household items,Cookware,Aluminium cooking foil,290-300mm,2.575
 430307,198702,"Furniture, household equipment and maintenance","Household appliances, fitting and repairs",Major appliances and small electric goods,Coffee machines; tea makers and similar appliances,Household items,Electrical,Electric kettle,1.5-1.7litre,30.727
@@ -329,7 +320,6 @@
 430137,200501,"Furniture, household equipment and maintenance","Furniture, furnishings and carpets",Furniture and furnishings,Household furniture,Household items,Furniture,Leather settee,,1771.828
 430138,200602,"Furniture, household equipment and maintenance","Furniture, furnishings and carpets",Furniture and furnishings,Household furniture,Household items,Furniture,Home office desk,,319.135
 430139,201302,"Furniture, household equipment and maintenance","Furniture, furnishings and carpets",Furniture and furnishings,Household furniture,Household items,Furniture,Kitchen wall unit,width 800-1000mm,179.194
-430140,201402,"Furniture, household equipment and maintenance","Furniture, furnishings and carpets",Furniture and furnishings,Household furniture,Household items,Furniture,Sofa bed,,907.888
 430141,201702,"Furniture, household equipment and maintenance","Furniture, furnishings and carpets",Furniture and furnishings,Household furniture,Household items,Furniture,Dinning table with 2-6 chairs,,925.044
 430142,201802,"Furniture, household equipment and maintenance","Furniture, furnishings and carpets",Furniture and furnishings,Other furniture and furnishings,Household items,Furniture,High chair,,88.806
 430143,201902,"Furniture, household equipment and maintenance","Furniture, furnishings and carpets",Furniture and furnishings,Household furniture,Household items,Furniture,Non leather settee,,1004.914
@@ -390,7 +380,6 @@
 430617,200202,Recreation and culture,"Other recreational items, gardens and pets","Pets, related products and services",Products for pets,Recreation and culture,Pets,Pet cage for a small mammal,,33.047
 430621,200302,Recreation and culture,"Other recreational items, gardens and pets","Pets, related products and services",Veterinary and other services for pets,Recreation and culture,Pets,Annual booster injection (medium dog),,52.104
 430622,200302,Recreation and culture,"Other recreational items, gardens and pets","Pets, related products and services",Veterinary and other services for pets,Recreation and culture,Pets,Dog kennel fees,daily charge,19.356
-430625,201402,Recreation and culture,"Other recreational items, gardens and pets","Pets, related products and services",Products for pets,Recreation and culture,Pets,Wild bird seed pack,500g-2kg,3.415
 430626,201902,Recreation and culture,"Other recreational items, gardens and pets","Pets, related products and services",Products for pets,Recreation and culture,Pets,Dog treats,70-400g,1.959
 430627,202202,Recreation and culture,"Other recreational items, gardens and pets","Pets, related products and services",Products for pets,Recreation and culture,Pets,Pet collar,single,8.253
 630340,200402,Recreation and culture,"Other recreational items, gardens and pets",Equipment for sport and open-air recreation,Equipment for sport,Recreation and culture,Sports and sport equipment,Carbon fibre fishing rod,,49.28
