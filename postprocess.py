@@ -33,7 +33,7 @@ latestmonth=datetime.strptime(unchained.columns[-1],"%Y-%m-%d")
 # first get the data.json from the cpi items and prices page
 
 with requests.Session() as s:
-    r=s.get("https://corsproxy.io/?https://www.ons.gov.uk/economy/inflationandpriceindices/datasets/consumerpriceindicescpiandretailpricesindexrpiitemindicesandpricequotes/data",headers={'User-Agent': 'Mozilla/5.0'})
+    r=s.get("https://corsproxy.io/?https://www.ons.gov.uk/economy/inflationandpriceindices/datasets/consumerpriceindicescpiandretailpricesindexrpiitemindicesandpricequotes/data",headers={'User-Agent': 'Mozilla/5.0'},verify=False)
     data = r.json()
     datasets = data['datasets']
 
@@ -61,14 +61,14 @@ if(itemmonth!=latestmonth):
     print('month from indices is different to latest month in unchained csv')
     # download the file
     with requests.Session() as s:
-        r=s.get("https://corsproxy.io/?https://www.ons.gov.uk"+items+"/data",headers={'User-Agent': 'Mozilla/5.0'})
+        r=s.get("https://corsproxy.io/?https://www.ons.gov.uk"+items+"/data",headers={'User-Agent': 'Mozilla/5.0'},verify=False)
         itemspage = r.json()
         csv = itemspage['downloads'][0]['file']
     
     # get the csv of the latest indices
 
     with requests.Session() as s:
-        download = s.get("https://corsproxy.io/?https://www.ons.gov.uk/file?uri="+items+"/"+csv,headers={'User-Agent': 'Mozilla/5.0'})
+        download = s.get("https://corsproxy.io/?https://www.ons.gov.uk/file?uri="+items+"/"+csv,headers={'User-Agent': 'Mozilla/5.0'},verify=False)
         df=pd.read_csv(io.StringIO(download.content.decode('utf-8')))
         
     #get the index date which is the first cell
